@@ -1,4 +1,4 @@
-# vue-durian
+# vue-chart Component plugin화 작업
 
 ## Project setup
 ```
